@@ -284,6 +284,10 @@ footer a:hover {
     .mini-card {
         margin: 8px;
     }
+    
+    .main-container img {
+        height: 200px;
+    }
 }
 
 @media screen and (max-width: 992px) {
